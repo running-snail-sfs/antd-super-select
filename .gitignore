@@ -1,0 +1,17 @@
+node_modules
+src
+temp
+tmp
+Desktop.ini
+Thumbs.db
+*.lock
+*.bak
+*.log
+*.tmp
+.DS_Store
+.idea
+.vscode
+.history
+.babelrc
+.prettierrc.js
+webpack.config.js
