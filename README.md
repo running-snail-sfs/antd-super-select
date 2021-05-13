@@ -1,5 +1,5 @@
 ## 基于antd Select的大数据渲染的组件SuperSelect,其他api与antd相同
-
+## 已发包 npm i antd-super-select
 
 ## 🔨 Usage   
 
