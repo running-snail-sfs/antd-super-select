@@ -1,7 +1,7 @@
 /* eslint-disable react/destructuring-assignment */
 import React, { PureComponent } from "react";
 import { Select } from "antd";
-import DropDownWrap from "./DropDownWrap";
+import DropDownWrap from "./DropDown";
 
 const ITEM_ELEMENT_NUMBER = 30;
 // Select size 配置
